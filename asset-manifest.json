@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/testGoIT/static/css/main.c3d5249d.css",
+    "main.js": "/testGoIT/static/js/main.d29fa7c3.js",
+    "static/media/cardBackground.png": "/testGoIT/static/media/cardBackground.b186e544641a66e17d83.png",
+    "index.html": "/testGoIT/index.html",
+    "main.c3d5249d.css.map": "/testGoIT/static/css/main.c3d5249d.css.map",
+    "main.d29fa7c3.js.map": "/testGoIT/static/js/main.d29fa7c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3d5249d.css",
+    "static/js/main.d29fa7c3.js"
+  ]
+}
