@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "user": "Elon Reeve Musk",
+    "tweets": 777,
+    "followers": 100500,
+    "avatar": "https://i.pravatar.cc/150?img=1",
+    "isFollowing": false
+  },
+  {
+    "id": 2,
+    "user": "Al Pacino",
+    "tweets": 123,
+    "followers": 7600,
+    "avatar": "https://i.pravatar.cc/150?img=2",
+    "isFollowing": false
+  },
+  {
+    "id": 3,
+    "user": "Robert De Niro",
+    "tweets": 456,
+    "followers": 85800,
+    "avatar": "https://i.pravatar.cc/150?img=3",
+    "isFollowing": false
+  },
+  {
+    "id": 4,
+    "user": "Johnny Depp",
+    "tweets": 789,
+    "followers": 12300,
+    "avatar": "https://i.pravatar.cc/150?img=4",
+    "isFollowing": false
+  },
+  {
+    "id": 5,
+    "user": "Denzel Washington",
+    "tweets": 987,
+    "followers": 14200,
+    "avatar": "https://i.pravatar.cc/150?img=5",
+    "isFollowing": false
+  },
+  {
+    "id": 6,
+    "user": "Russell Crowe",
+    "tweets": 654,
+    "followers": 29900,
+    "avatar": "https://i.pravatar.cc/150?img=6",
+    "isFollowing": false
+  },
+  {
+    "id": 7,
+    "user": "Brad Pitt",
+    "tweets": 741,
+    "followers": 37100,
+    "avatar": "https://i.pravatar.cc/150?img=7",
+    "isFollowing": false
+  },
+  {
+    "id": 8,
+    "user": "Leonardo DiCaprio",
+    "tweets": 852,
+    "followers": 43000,
+    "avatar": "https://i.pravatar.cc/150?img=8",
+    "isFollowing": false
+  },
+  {
+    "id": 9,
+    "user": "John Travolta",
+    "tweets": 963,
+    "followers": 62700,
+    "avatar": "https://i.pravatar.cc/150?img=9",
+    "isFollowing": false
+  }
+]
