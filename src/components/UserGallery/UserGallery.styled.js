@@ -7,7 +7,7 @@ export const UserList = styled.ul`
   grid-gap: 16px;
 
   @media (min-width: 480px) {
-    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(380px, 1fr));
     grid-gap: 48px;
   }
 `;
