@@ -30,7 +30,7 @@ export const UserListItem = ({ userInfo, changeUsersToRender }) => {
   };
   useEffect(() => {
     changeUsersToRender(id, currentFollowers, isItemFollowing);
-  }, [isItemFollowing, currentFollowers, id]);
+  }, [isItemFollowing, currentFollowers, changeUsersToRender, id]);
 
   return (
     <ListItem>
